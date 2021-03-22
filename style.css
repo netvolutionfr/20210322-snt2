@@ -1,0 +1,13 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+    font-family: 'Chango', cursive;
+    color: rgb(67, 62, 121);
+}
+img {
+    width: 400px;
+    margin: 0 auto;
+    display: block;
+}
